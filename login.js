@@ -5,7 +5,7 @@ const https = require('https');
 // LOGIN - Configurando para acessar a conta
 const url = "https://h-api-integra.fde.sp.gov.br/acesso/login";
 
-const user = "23.655.332/0001-00";
+const user = "23655332000100";
 
 const pass = "primeiro@cesso@pi|ntegr@";
 
